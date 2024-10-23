@@ -1,0 +1,16 @@
+{
+  "name": "making-hasura-work-with-github-actions",
+  "version": "1.0.0",
+  "description": "Making Hasura work with GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joannewang99/hasuraci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
